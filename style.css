@@ -1,0 +1,16 @@
+button{
+    position: absolute;
+    top: 48%;
+    left: 45%;
+    background-color: #435e79;
+    border: none;
+    padding: 1rem 3rem;
+    font-family: monospace;
+}
+
+p{
+    position: absolute;
+    top: 57.5%;
+    left: 37%;
+    font-family: monospace;
+}
